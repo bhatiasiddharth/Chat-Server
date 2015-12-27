@@ -1,0 +1,8 @@
+TO RUN BOTH P1 and P2
+
+(on server)
+make 
+
+
+(on client)
+telnet localhost 1234
